@@ -1,7 +1,7 @@
 Hi 👋 My name is Prakash. R
 ===========================
 
-Student B.Tech (II year)
+Student B.Tech (IV year)
 ------------------------
 
 Passionate young developer intrested in building next gen scalable appilications,. Beginner frontend dev, Ethical Hacker, Competitive programmer.
@@ -9,7 +9,7 @@ Passionate young developer intrested in building next gen scalable appilications
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [http://https//prakashr15.wordpress.com/](http://http://https//prakashr15.wordpress.com/)
 * ✉️  You can contact me at [wrkprakash@gmail.com](mailto:wrkprakash@gmail.com)
-* 🧠  I'm learning Blockchain and NFT's
+* 🧠  I'm learning Blockchain, ML and Frontend
 * 🤝  I'm open to collaborating on Frontend Projects
 
 ### Skills
