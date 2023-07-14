@@ -1,15 +1,15 @@
-![banner](https://github.com/PrakashR15/PrakashR15/assets/73439706/f81cf305-d152-4be1-8d93-a943ff568fb0)
+![banner](https://github.com/PrakashR15/PrakashR15/assets/73439706/d2747306-429d-45b9-ab33-71c59c5f5f49)
 
-Student B.Tech (IV year)
+Student[CS-IT Major]
 ------------------------
 
 Passionate Young developer intrested in ML and Fullstack. Currently learning Blockchain and NFT's
 
-* 🌍  I'm based in India
+* 🌍  India, Madurai
 * 🖥️  See my portfolio at [http://https//prakashr15.wordpress.com/](http://http://https//prakashr15.wordpress.com/)
-* ✉️  You can contact me at [wrkprakash@gmail.com](mailto:wrkprakash@gmail.com)
-* 🧠  I'm learning Blockchain, ML and Frontend
-* 🤝  I'm open to collaborating on Frontend Projects
+* ✉️  Get in touch [wrkprakash@gmail.com](mailto:wrkprakash@gmail.com)
+* 🧠  I'm intrested Blockchain, ML and Frontend
+* 🤝  Open to collaborating on Frontend Projects
 
 ### Skills
 
@@ -42,7 +42,6 @@ Passionate Young developer intrested in ML and Fullstack. Currently learning Blo
 
 <a href="http://www.github.com/PrakashR15"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PrakashR15&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/PrakashR15"><img src="https://activity-graph.herokuapp.com/graph?username=PrakashR15&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/PrakashR15" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakashR15&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
