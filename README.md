@@ -6,7 +6,7 @@ Student[CS-IT Major]
 Passionate Young developer intrested in ML and Fullstack. Currently learning Blockchain and NFT's
 
 * 🌍  India, Madurai
-* 🖥️  See my portfolio at [http://https//prakashr15.wordpress.com/](http://http://https//prakashr15.wordpress.com/)
+* 🖥️  See my portfolio at [http://https//prakashr15.wordpress.com/](https://prakashr.netlify.app/)
 * ✉️  Get in touch [wrkprakash@gmail.com](mailto:wrkprakash@gmail.com)
 * 🧠  I'm intrested Blockchain, ML and Frontend
 * 🤝  Open to collaborating on Frontend Projects
