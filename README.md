@@ -1,9 +1,9 @@
 ![banner](https://github.com/PrakashR15/PrakashR15/assets/73439706/d2747306-429d-45b9-ab33-71c59c5f5f49)
 
-Student[CS-IT Major]
+Graduate[CS-IT Major]
 ------------------------
 
-Passionate Young developer intrested in ML and Fullstack. Currently learning Blockchain and NFT's
+A developer passionate about coding and building scalable applications.
 
 * 🌍  India, Madurai.
 * 🖥️  See my portfolio at [https://prakashr.netlify.app/](https://prakashr.netlify.app/).
