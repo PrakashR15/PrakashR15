@@ -8,7 +8,7 @@ Passionate Young developer intrested in ML and Fullstack. Currently learning Blo
 * 🌍  India, Madurai.
 * 🖥️  See my portfolio at [http://https//prakashr15.wordpress.com/](https://prakashr.netlify.app/).
 * ✉️  Get in touch [wrkprakash@gmail.com](mailto:wrkprakash@gmail.com).
-* 🧠  Intrested Blockchain, ML and Frontend development.
+* 🧠  Intrested Frontend and Machine Learning .
 * 🤝  Open to collaborating on Frontend Projects.
 
 ### Skills
