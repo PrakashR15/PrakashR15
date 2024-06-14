@@ -6,7 +6,7 @@ Student[CS-IT Major]
 Passionate Young developer intrested in ML and Fullstack. Currently learning Blockchain and NFT's
 
 * 🌍  India, Madurai.
-* 🖥️  See my portfolio at [http://https//prakashr15.wordpress.com/](https://prakashr.netlify.app/).
+* 🖥️  See my portfolio at [https://prakashr.netlify.app/](https://prakashr.netlify.app/).
 * ✉️  Get in touch [wrkprakash@gmail.com](mailto:wrkprakash@gmail.com).
 * 🧠  Intrested Frontend and Machine Learning .
 * 🤝  Open to collaborating on Frontend Projects.
@@ -47,4 +47,4 @@ Passionate Young developer intrested in ML and Fullstack. Currently learning Blo
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/PrakashR15/Intrusion-Detection-System" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=PrakashR15&repo=VHM&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/PrakashR15/Parkinson-s-disease-predection" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=PrakashR15&repo=Simple-Text-Editor&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/PrakashR15/Intrusion-Detection-System" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=PrakashR15&repo=Intrusion-Detection-System&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/PrakashR15/Parkinson-s-disease-predection" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=PrakashR15&repo=Parkinson-s-disease-predection&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
