@@ -3,12 +3,12 @@
 Graduate[CS-IT Major]
 ------------------------
 
-A developer passionate about coding and building scalable applications.
+A problem solver passionate about coding and loves to build next-gen scalable applications.
 
 * 🌍  India, Madurai.
 * 🖥️  See my portfolio at [https://prakashr.netlify.app/](https://prakashr.netlify.app/).
 * ✉️  Get in touch [wrkprakash@gmail.com](mailto:wrkprakash@gmail.com).
-* 🧠  Intrested Frontend and Machine Learning .
+* 🧠  Intrested Fullstack and Machine Learning.
 * 🤝  Open to collaborating on Frontend Projects.
 
 ### Skills
