@@ -1,4 +1,5 @@
-![banner](https://github.com/PrakashR15/PrakashR15/assets/73439706/d2747306-429d-45b9-ab33-71c59c5f5f49)
+![banner](![linkedin banner](https://github.com/user-attachments/assets/df1751b4-9212-4446-a3e2-18ab5d5395af)
+)
 
 Graduate[CS-IT Major]
 ------------------------
