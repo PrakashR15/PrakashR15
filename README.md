@@ -1,5 +1,5 @@
-![banner](![linkedin banner](https://github.com/user-attachments/assets/df1751b4-9212-4446-a3e2-18ab5d5395af)
-)
+(![linkedin banner](https://github.com/user-attachments/assets/df1751b4-9212-4446-a3e2-18ab5d5395af)
+
 
 Graduate[CS-IT Major]
 ------------------------
